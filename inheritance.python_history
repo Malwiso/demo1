@@ -1,0 +1,20 @@
+fruit="banana"
+print(fruit)
+#inhertance in python
+class Animal()
+class Animal():
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
+        def walk(self):
+            print(self.name + self.age + "walks")
+            class Dog(Animal):
+                def __init__(self,name,age):
+                    super(). __init__(name,age)
+                    def sound(self):
+                        print(self.name + self.age + "barks")
+                        d= Dog("puppy",3)
+                        d.walk()
+                        d.sound()
+                        
+exit()
